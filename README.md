@@ -99,11 +99,15 @@ The verifier checks the explicit computational example and its exact cycle/trace
 
 ## Citation
 
-Please cite the associated manuscript and this software repository when using these materials.
+If you use this software, please cite the associated manuscript and the archived software release.
 
-**Software repository:** https://github.com/Tinashe2023/twisted-ihara-publication-release
+Archived release (v1.0.0):
 
-An archival DOI will be added when a version of this repository is deposited and published through an archival service such as Zenodo.
+Hando, T., & Thakur, V. (2026). Exact SU(2)-Twisted Ihara Invariants — Research Code (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24381934
+
+GitHub repository: https://github.com/Tinashe2023/twisted-ihara-publication-release
+
+License: MIT.
 
 ## License
 

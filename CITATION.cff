@@ -4,6 +4,9 @@ title: "Exact SU(2)-Twisted Ihara Invariants — Research Code"
 type: software
 repository-code: "https://github.com/Tinashe2023/twisted-ihara-publication-release"
 license: MIT
+version: 1.0.0
+doi: "10.5281/zenodo.24381934"
+date-released: "2026-11-20"
 authors:
   - family-names: Hando
     given-names: Tinashe
