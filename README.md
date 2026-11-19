@@ -104,3 +104,7 @@ Please cite the associated manuscript and this software repository when using th
 **Software repository:** https://github.com/Tinashe2023/twisted-ihara-publication-release
 
 An archival DOI will be added when a version of this repository is deposited and published through an archival service such as Zenodo.
+
+## License
+
+This software is released under the MIT License. See the [LICENSE](LICENSE) file for details.

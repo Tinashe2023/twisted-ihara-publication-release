@@ -3,6 +3,7 @@ message: "If you use this software, please cite the associated manuscript and th
 title: "Exact SU(2)-Twisted Ihara Invariants — Research Code"
 type: software
 repository-code: "https://github.com/Tinashe2023/twisted-ihara-publication-release"
+license: MIT
 authors:
   - family-names: Hando
     given-names: Tinashe
