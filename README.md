@@ -13,7 +13,7 @@ For the two specified Tanner graphs \(X_1\) and \(X_2\), the verifier checks the
 - \(X_1\): \((0,0,0,0,0,0)\);
 - \(X_2\): \((0,0,0,0,0,48)\).
 
-The corresponding coefficients of \(u^6\) in \(\det(I-uB_{T,j})\) are \(0\) and \(-8\), respectively. The JSON certificate records the graph matrices, chord sets, cycle-by-cycle transport traces, matrix dimensions, software versions, and computed coefficients.
+The corresponding coefficients of \(u^6\) in \(\det(I-uB\_{T,j})\) are \(0\) and \(-8\), respectively. The JSON certificate records the graph matrices, chord sets, cycle-by-cycle transport traces, matrix dimensions, software versions, and computed coefficients.
 
 The computational script is a reproducibility check for the finite exact-arithmetic calculations reported in the manuscript. It does **not** replace the paper's mathematical proofs of ordinary cospectrality or graph nonisomorphism.
 
@@ -99,4 +99,8 @@ The verifier checks the explicit computational example and its exact cycle/trace
 
 ## Citation
 
-Please cite the associated manuscript and this software repository when using these materials. Repository URL and archival DOI will be added to `CITATION.cff` once the public repository has been created and, if applicable, archived.
+Please cite the associated manuscript and this software repository when using these materials.
+
+**Software repository:** https://github.com/Tinashe2023/twisted-ihara-publication-release
+
+An archival DOI will be added when a version of this repository is deposited and published through an archival service such as Zenodo.

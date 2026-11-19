@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the associated manuscript and this repository."
 title: "Exact SU(2)-Twisted Ihara Invariants — Research Code"
 type: software
+repository-code: "https://github.com/Tinashe2023/twisted-ihara-publication-release"
 authors:
   - family-names: Hando
     given-names: Tinashe
