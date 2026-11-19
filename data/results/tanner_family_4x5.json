@@ -1,0 +1,200 @@
+[
+  {
+    "family_index": 1,
+    "parity_check_matrix": [
+      [
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        0,
+        1,
+        1
+      ]
+    ],
+    "rank_mod_2": 3,
+    "classical_dimension_lower_bound": 2,
+    "descriptors": {
+      "vertex_count": 9,
+      "edge_count": 12,
+      "component_count": 1,
+      "connected": true,
+      "bipartite": true,
+      "cycle_rank": 4,
+      "girth": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "adjacency_spectrum": [
+        -2.749827778754,
+        -1.85430504157,
+        -1.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.85430504157,
+        2.749827778754
+      ]
+    }
+  },
+  {
+    "family_index": 2,
+    "parity_check_matrix": [
+      [
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    ],
+    "rank_mod_2": 4,
+    "classical_dimension_lower_bound": 1,
+    "descriptors": {
+      "vertex_count": 9,
+      "edge_count": 12,
+      "component_count": 1,
+      "connected": true,
+      "bipartite": true,
+      "cycle_rank": 4,
+      "girth": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "adjacency_spectrum": [
+        -2.765095172153,
+        -1.534356115423,
+        -1.0,
+        -1.0,
+        -0.0,
+        1.0,
+        1.0,
+        1.534356115423,
+        2.765095172153
+      ]
+    }
+  },
+  {
+    "family_index": 3,
+    "parity_check_matrix": [
+      [
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        0,
+        1,
+        1
+      ]
+    ],
+    "rank_mod_2": 4,
+    "classical_dimension_lower_bound": 1,
+    "descriptors": {
+      "vertex_count": 9,
+      "edge_count": 12,
+      "component_count": 1,
+      "connected": true,
+      "bipartite": true,
+      "cycle_rank": 4,
+      "girth": 4,
+      "degree_sequence": [
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "adjacency_spectrum": [
+        -2.746157545581,
+        -1.61803398875,
+        -1.207732890523,
+        -0.61803398875,
+        -0.0,
+        0.61803398875,
+        1.207732890523,
+        1.61803398875,
+        2.746157545581
+      ]
+    }
+  }
+]

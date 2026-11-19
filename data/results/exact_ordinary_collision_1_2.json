@@ -1,0 +1,9 @@
+{
+  "first_index": 1,
+  "second_index": 2,
+  "tanner_isomorphic": false,
+  "ordinary_collision_verified_exactly": true,
+  "first_polynomial": "(u - 1)**7*(u + 1)**7*(2*u - 1)*(2*u + 1)*(2*u**2 + 1)**4*(4*u**4 - u**2 + 1)*(4*u**4 + 2*u**2 + 1)**2",
+  "second_polynomial": "(u - 1)**7*(u + 1)**7*(2*u - 1)*(2*u + 1)*(2*u**2 + 1)**4*(4*u**4 - u**2 + 1)*(4*u**4 + 2*u**2 + 1)**2",
+  "difference": "0"
+}

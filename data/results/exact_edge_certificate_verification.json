@@ -1,0 +1,20 @@
+{
+  "probe": "quaternion_a",
+  "ordinary_collision_rechecked": true,
+  "tanner_inequivalence_rechecked": true,
+  "records": [
+    {
+      "representative": 1,
+      "det_11I_minus_B": "955593943104182794896057830459355669200645458550250426045825024000000000000",
+      "det_K": "107176219991004937877339688576235823596805791359504",
+      "exact_bass_identity": true
+    },
+    {
+      "representative": 2,
+      "det_11I_minus_B": "955332834082441718507893266752994451385036915569172375641522176000000000000",
+      "det_K": "107146934876592375418187484583836583458326550944196",
+      "exact_bass_identity": true
+    }
+  ],
+  "edge_side_exact_separation": true
+}

@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda and virtual environments
+.conda/
+venv/
+.venv/
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# LaTeX temporary files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Generated research outputs
+outputs/logs/
+outputs/symbolic/
+data/processed/
+
+
+# Keep folder structure
+!data/processed/.gitkeep
+!data/results/.gitkeep
+!outputs/logs/.gitkeep
+!outputs/symbolic/.gitkeep

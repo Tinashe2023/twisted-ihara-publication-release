@@ -1,0 +1,26 @@
+name: twisted-ihara
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - black
+  - ipykernel
+  - jupyterlab
+  - matplotlib
+  - mypy
+  - networkx
+  - numpy
+  - pandas
+  - pip
+  - pytest
+  - pytest-cov
+  - python=3.11
+  - pyyaml
+  - ruff
+  - scipy
+  - seaborn
+  - sympy
+  - tqdm
+prefix: C:\ProgramData\anaconda3\envs\twisted-ihara

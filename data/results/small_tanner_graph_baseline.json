@@ -1,0 +1,27 @@
+{
+  "vertex_count": 7,
+  "edge_count": 9,
+  "component_count": 1,
+  "connected": true,
+  "bipartite": true,
+  "cycle_rank": 3,
+  "girth": 4,
+  "degree_sequence": [
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3
+  ],
+  "adjacency_spectrum": [
+    -2.645751311065,
+    -1.0,
+    -1.0,
+    0.0,
+    1.0,
+    1.0,
+    2.645751311065
+  ]
+}

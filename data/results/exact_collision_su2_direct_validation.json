@@ -1,0 +1,116 @@
+{
+  "first_representative": 1,
+  "second_representative": 2,
+  "evaluation_points": [
+    0.03,
+    0.07,
+    0.11
+  ],
+  "probe_results": [
+    {
+      "probe_name": "commuting_z",
+      "evaluations": [
+        {
+          "u": 0.03,
+          "first_direct_real": 0.9999822252104233,
+          "first_direct_imaginary": 0.0,
+          "second_direct_real": 0.9999826380157341,
+          "second_direct_imaginary": 0.0,
+          "first_reconstruction_relative_error": 4.440892286762112e-16,
+          "second_reconstruction_relative_error": 2.220446153935643e-16,
+          "direct_relative_separation": 4.128053107121943e-07
+        },
+        {
+          "u": 0.07,
+          "first_direct_real": 0.9994703880353919,
+          "first_direct_imaginary": 0.0,
+          "second_direct_real": 0.9994822235211362,
+          "second_direct_imaginary": -3.3863774940695584e-21,
+          "first_reconstruction_relative_error": 2.257678603109157e-16,
+          "second_reconstruction_relative_error": 2.2344116382054396e-16,
+          "direct_relative_separation": 1.1835485744349228e-05
+        },
+        {
+          "u": 0.11,
+          "first_direct_real": 0.9967420497850933,
+          "first_direct_imaginary": 1.350837369730815e-20,
+          "second_direct_real": 0.9968095738306382,
+          "second_direct_imaginary": 0.0,
+          "first_reconstruction_relative_error": 2.654728658505824e-15,
+          "second_reconstruction_relative_error": 6.804677966105514e-16,
+          "direct_relative_separation": 6.752404554488667e-05
+        }
+      ]
+    },
+    {
+      "probe_name": "mixed_noncommuting_a",
+      "evaluations": [
+        {
+          "u": 0.03,
+          "first_direct_real": 0.9999841391864263,
+          "first_direct_imaginary": 1.0587743907782909e-22,
+          "second_direct_real": 0.999984927573217,
+          "second_direct_imaginary": 2.1175504510305501e-22,
+          "first_reconstruction_relative_error": 2.2204460567529976e-16,
+          "second_reconstruction_relative_error": 2.2204460715546674e-16,
+          "direct_relative_separation": 7.883867907398923e-07
+        },
+        {
+          "u": 0.07,
+          "first_direct_real": 0.9995276850100867,
+          "first_direct_imaginary": -6.7730630471708906e-21,
+          "second_direct_real": 0.9995509432434291,
+          "second_direct_imaginary": 1.0159830976635577e-20,
+          "first_reconstruction_relative_error": 2.2206541897544576e-16,
+          "second_reconstruction_relative_error": 4.741016145548712e-18,
+          "direct_relative_separation": 2.3258233342371426e-05
+        },
+        {
+          "u": 0.11,
+          "first_direct_real": 0.99709727505014,
+          "first_direct_imaginary": 0.0,
+          "second_direct_real": 0.997237608511377,
+          "second_direct_imaginary": -4.0545269311210616e-20,
+          "first_reconstruction_relative_error": 1.3322880944733008e-15,
+          "second_reconstruction_relative_error": 4.468174490473281e-16,
+          "direct_relative_separation": 0.00014033346123698553
+        }
+      ]
+    },
+    {
+      "probe_name": "mixed_noncommuting_b",
+      "evaluations": [
+        {
+          "u": 0.03,
+          "first_direct_real": 0.9999841528573308,
+          "first_direct_imaginary": -1.5881616078793873e-22,
+          "second_direct_real": 0.9999833147087575,
+          "second_direct_imaginary": 5.293867589143016e-22,
+          "first_reconstruction_relative_error": 1.1102261596766996e-16,
+          "second_reconstruction_relative_error": 6.661344122142809e-16,
+          "direct_relative_separation": 8.381485733233163e-07
+        },
+        {
+          "u": 0.07,
+          "first_direct_real": 0.9995284684082216,
+          "first_direct_imaginary": -1.6932670889207856e-21,
+          "second_direct_real": 0.9995029438827892,
+          "second_direct_imaginary": 1.3545790789542218e-20,
+          "first_reconstruction_relative_error": 5.621770485859513e-16,
+          "second_reconstruction_relative_error": 5.730761988027865e-16,
+          "direct_relative_separation": 2.55245254324743e-05
+        },
+        {
+          "u": 0.11,
+          "first_direct_real": 0.9971062079392476,
+          "first_direct_imaginary": 2.0269963440872158e-20,
+          "second_direct_real": 0.9969431804608073,
+          "second_direct_imaginary": 8.10665971575162e-20,
+          "first_reconstruction_relative_error": 1.7779440057843127e-15,
+          "second_reconstruction_relative_error": 2.285032867824232e-15,
+          "direct_relative_separation": 0.00016302747844032517
+        }
+      ]
+    }
+  ]
+}
